@@ -17,6 +17,7 @@ def get_sequence(min, max):
 
 # multiply each item of b to match items
 b = candidates * (len(items) // len(candidates))
+print(b)
 # shuffle b using random.org interger sequence generator
 order = get_sequence(0, len(b) - 1)
 b = [b[i] for i in order]
@@ -24,9 +25,10 @@ b = [b[i] for i in order]
 
 print(f'Remaining items: {len(items) - len(b)}')
 if input('Match remaining items? (y/n) ') == 'y':
-    order = get_sequence(0, len(candidates))
     # match remaining items to candidates
-    b += [candidates[i] for i in order[:len(items) - len(b)]]
+    b += candidates[:len(items) - len(b)]
+    order = get_sequence(0, len(b) - 1)
+    b = [b[i] for i in order]
 
 
 # match items and b and write to file
