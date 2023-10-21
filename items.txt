@@ -32,17 +32,13 @@ d13rbpath
 d13swap
 d13prosperity
 d13str2min
-d13mst
 A-Điểm trong hình chữ nhật
 B-Xếp hàng mua kem
 C-Tổng f(x)
-D-Chia nhóm
-E-Truy vấn thêm từ
 F-Đếm bộ ba
 A-Đếm dãy con k nhỏ nhất
 B-Trả tiền
 C-Chọn hình vuông
-D-Tìm dãy b
 E-Truy vấn đuổi trên cây
 F-Số lượng tổng
 paint

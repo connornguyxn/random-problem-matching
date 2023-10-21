@@ -1,74 +1,70 @@
-SUPPER                       Phúc
+SUPPER                       Chung
 ZSUM                         Tài
-CAMERA                       Hiếu
-WBTREE                       Tú
-NETX                         Nhật Anh
-GBOX                         Phúc
-UPTREE                       Hoàng
-KSET                         Tài
-KJUMP                        Chung
-XEPHINH                      Hiếu
-QMEX                         Hiếu
+CAMERA                       Hoàng
+WBTREE                       Tuấn
+NETX                         Dũng
+GBOX                         Hoàng
+UPTREE                       Tuấn
+KSET                         Khánh
+KJUMP                        Hoàng
+XEPHINH                      Tài
+QMEX                         Nhật Anh
 SHLGOOD                      Phúc
-FWALL                        Nhật Anh
-CXPAIR                       Khánh
+FWALL                        Hiếu
+CXPAIR                       Hoàng
 LISX                         Tài
-KROBOT                       Khánh
-d13pseqp                     Hoàng
-d13pseqp                     Hoàng
-d13numtabp                   Chung
+KROBOT                       Tuấn
+d13pseqp                     Tài
+d13pseqp                     Dũng
+d13numtabp                   Phúc
 d13mzdesign                  Chung
-d13rotgame                   Nhật Anh
+d13rotgame                   Khánh
 d13minwd                     Hiếu
-d13qn                        Tuấn
-d13hamilton                  Hiếu
-d13shamilton                 Khánh
+d13qn                        Chung
+d13hamilton                  Khánh
+d13shamilton                 Tú
 d13glider                    Hoàng
-d13nqueen                    Nhật Anh
+d13nqueen                    Hiếu
 d13ff                        Dũng
-d13planet                    Tuấn
-d13vectorg                   Dũng
-d13rbpath                    Hoàng
-d13swap                      Tuấn
-d13prosperity                Hiếu
-d13str2min                   Tài
-d13mst                       Chung
-A-Điểm trong hình chữ nhật   Tú
-B-Xếp hàng mua kem           Hiếu
-C-Tổng f(x)                  Tài
-D-Chia nhóm                  Tài
-E-Truy vấn thêm từ           Hoàng
-F-Đếm bộ ba                  Tú
-A-Đếm dãy con k nhỏ nhất     Tú
+d13planet                    Chung
+d13vectorg                   Nhật Anh
+d13rbpath                    Dũng
+d13swap                      Dũng
+d13prosperity                Nhật Anh
+d13str2min                   Khánh
+A-Điểm trong hình chữ nhật   Dũng
+B-Xếp hàng mua kem           Hoàng
+C-Tổng f(x)                  Chung
+F-Đếm bộ ba                  Nhật Anh
+A-Đếm dãy con k nhỏ nhất     Dũng
 B-Trả tiền                   Tuấn
-C-Chọn hình vuông            Chung
-D-Tìm dãy b                  Dũng
-E-Truy vấn đuổi trên cây     Tài
-F-Số lượng tổng              Nhật Anh
-paint                        Tú
-volleyball                   Tú
-flowers                      Dũng
-walls                        Chung
-E-Đếm dãy ngoặc              Hiếu
-harem                        Phúc
-and                          Dũng
-H-Dãy con có độ dài bị chặn  Khánh
-quanho                       Nhật Anh
-J-Mạng thông suốt            Nhật Anh
-req                          Chung
-sum-min-gcd                  Khánh
-pupil                        Hoàng
-FOLDING                      Tuấn
-GARBOT                       Chung
-LEGOSHOW                     Phúc
-ORIENTED                     Dũng
-STICKERS                     Phúc
-SUBSETSUM                    Hoàng
-WEDDING                      Dũng
-BOUNDARY                     Khánh
+C-Chọn hình vuông            Phúc
+E-Truy vấn đuổi trên cây     Tuấn
+F-Số lượng tổng              Tài
+paint                        Tài
+volleyball                   Hoàng
+flowers                      Phúc
+walls                        Tuấn
+E-Đếm dãy ngoặc              Tú
+harem                        Hiếu
+and                          Chung
+H-Dãy con có độ dài bị chặn  Tài
+quanho                       Chung
+J-Mạng thông suốt            Hiếu
+req                          Tú
+sum-min-gcd                  Hiếu
+pupil                        Khánh
+FOLDING                      Tú
+GARBOT                       Tú
+LEGOSHOW                     Nhật Anh
+ORIENTED                     Phúc
+STICKERS                     Tuấn
+SUBSETSUM                    Khánh
+WEDDING                      Khánh
+BOUNDARY                     Phúc
 COUPONS                      Phúc
-FOURDIV                      Tú
-FRACCMP                      Tuấn
-NUMBER                       Dũng
-TEAMS                        Khánh
-WATERING                     Tuấn
+FOURDIV                      Hiếu
+FRACCMP                      Nhật Anh
+NUMBER                       Nhật Anh
+TEAMS                        Tú
+WATERING                     Tú
